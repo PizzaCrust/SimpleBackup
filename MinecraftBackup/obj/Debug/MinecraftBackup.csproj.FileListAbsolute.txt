@@ -1,0 +1,9 @@
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\bin\Debug\MinecraftBackup.exe.config
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\bin\Debug\MinecraftBackup.exe
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\bin\Debug\MinecraftBackup.pdb
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\obj\Debug\MinecraftBackup.csprojResolveAssemblyReference.cache
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\obj\Debug\MinecraftBackup.Form1.resources
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\obj\Debug\MinecraftBackup.Properties.Resources.resources
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\obj\Debug\MinecraftBackup.csproj.GenerateResource.Cache
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\obj\Debug\MinecraftBackup.exe
+c:\users\hdl\documents\visual studio 2015\Projects\MinecraftBackup\MinecraftBackup\obj\Debug\MinecraftBackup.pdb
